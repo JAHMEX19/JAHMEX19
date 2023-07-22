@@ -15,7 +15,7 @@ I'm an enthusiastic mechatronic engineer with experience in industrial process a
 
 Industrial process automation:
 
-RsLogix, Studio 5000, Tia Portal
+RsLogix 500, Studio 5000, Tia Portal
 
 Engineering desing:
 
@@ -23,7 +23,7 @@ SolidWorks, Autocad Electrical, Protheus
 
 Web developer:
 
-Javascript, HTML, CSS
+Javascript, HTML, CSS, React
 
 
 ## Other Common Github Profile Sections
@@ -32,7 +32,7 @@ Javascript, HTML, CSS
 
 👯‍♀️ I'm looking to collaborate on engineering projects.
 
-📫 How to reach me:  jah190594gmail.com
+📫 How to reach me:  jah190594@gmail.com
 
 
 
