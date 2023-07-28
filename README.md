@@ -26,7 +26,7 @@ Web developer:
 Javascript, HTML, CSS, React
 
 
-## Other Common Github Profile Sections
+## Other 
 
 🧠 I'm currently learning web developer skills
 
