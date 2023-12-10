@@ -19,7 +19,7 @@ RsLogix 500, Studio 5000, Tia Portal
 
 Engineering desing:
 
-SolidWorks, Autocad Electrical, Protheus
+SolidWorks,Inventor , Autocad Electrical, Protheus
 
 Web developer:
 
@@ -29,8 +29,6 @@ Javascript, HTML, CSS, React
 ## Other 
 
 🧠 I'm currently learning web developer skills
-
-👯‍♀️ I'm looking to collaborate on engineering projects.
 
 📫 How to reach me:  jah190594@gmail.com
 
